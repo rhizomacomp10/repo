@@ -1,0 +1,14 @@
+Package: com.rhizomacomp10.effectivepower
+Name: effectivePower
+Version: 0.0.1
+Section: Console
+Architecture: iphoneos-arm
+Depends: com.conradkramer.open, com.kramerapps.jetsamctl 
+Description: neat script to open pojav with increased jetsam limits
+Author: rhizoma
+Maintainer: bleachsquadteam@gmail.com
+Filename: debs/effectivePower-0.0.1.deb
+Size: 904
+MD5sum: 504dbe7aefc2a9deabe6f89a39b4ce46
+SHA1: 290bb1170aa60fc126827f147550693495cf985d
+SHA256: f7233f1809787b0b9bb1c5b85e142d1115c68efaa92980167aa7f44e5d020cac
