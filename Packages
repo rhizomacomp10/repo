@@ -7,9 +7,9 @@ Depends: com.conradkramer.open, com.kramerapps.jetsamctl
 Description: neat script to open pojav with increased jetsam limits
 Author: rhizoma
 Maintainer: bleachsquadteam@gmail.com
-Filename: debs/effectivePower-0.0.1.deb
-Size: 1060
-MD5sum: 504dbe7aefc2a9deabe6f89a39b4ce46
-SHA1: 290bb1170aa60fc126827f147550693495cf985d
-SHA256: f7233f1809787b0b9bb1c5b85e142d1115c68efaa92980167aa7f44e5d020cac
+Filename: debs/com.rhizomacomp10.effectivepower-0.0.1.deb
+Size: 940
+MD5sum: 151671918691c9b38b03b32b4e99fac5
+SHA1: 4162112df0a870ab0bfbeedffee6c492b40ced92
+SHA256: 2c44947364b579ee5c8d2bac7b2d0de3fb56ba0f7511fbee6f60066bfa812014
 
