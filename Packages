@@ -13,3 +13,17 @@ MD5sum: 151671918691c9b38b03b32b4e99fac5
 SHA1: 4162112df0a870ab0bfbeedffee6c492b40ced92
 SHA256: 2c44947364b579ee5c8d2bac7b2d0de3fb56ba0f7511fbee6f60066bfa812014
 
+Package: com.rhizomacomp10.ezrespring
+Name: ezRespring
+Version: 0.0.1
+Section: Console
+Architecture: iphoneos-arm 
+Description: very simple script to respring ez just run respring in terminal
+Author: rhizoma
+Maintainer: bleachsquadteam@gmail.com
+Filename: debs/com.rhizomacomp10.ezrespring-0.0.1.deb
+Size: 816
+MD5sum: 9addb952075a118d3dc97a2cc8a5882f
+SHA1: 
+c3c3ba4e5ed5327ccda79a52b37ebe7462a65427
+SHA256: 93821806b0e6c2ddf53b750664ee6c8fe963dfaa4e48226b3fc1e39d913a6a6f
