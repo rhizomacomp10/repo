@@ -4,9 +4,9 @@
    "itemCornerRadius":10,
    "banners":[  
       {  
-         "url":"",
-         "title":"",
-         "package":"Rhizoma R.S.B.",
+         "url":"https://rhizomacomp10.github.io/repo/banner.png",
+         "title":"Welcome to Rhizoma R.S.B.",
+         "package":"",
          "hideShadow":false
       },
       {  
