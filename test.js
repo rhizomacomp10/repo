@@ -8,7 +8,7 @@ script.src = "//www.jquery-az.com/javascript/alert/dist/sweetalert-dev.js";
 head.appendChild(link);
 document.body.appendChild(script);
 
-function bypass() (
+function bypass() {
 window.close;
 swal("GoGuardian Bypass", "has been successfully executed", "success");
 }
