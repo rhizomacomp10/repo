@@ -10,5 +10,5 @@ document.body.appendChild(script);
 
 function bypass() {
 window.close;
-swal("GoGuardian Bypass", "has been successfully executed", "success");
+swal("GoGuardian Bypass by rhizoma", "Successfully executed.", "success");
 }
